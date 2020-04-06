@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/meetingscheduler/static/css/main.a43e3b81.chunk.css",
+    "main.js": "/meetingscheduler/static/js/main.9b6e989b.chunk.js",
+    "main.js.map": "/meetingscheduler/static/js/main.9b6e989b.chunk.js.map",
+    "runtime-main.js": "/meetingscheduler/static/js/runtime-main.6dbb1d8b.js",
+    "runtime-main.js.map": "/meetingscheduler/static/js/runtime-main.6dbb1d8b.js.map",
+    "static/css/2.1417c86a.chunk.css": "/meetingscheduler/static/css/2.1417c86a.chunk.css",
+    "static/js/2.62edabed.chunk.js": "/meetingscheduler/static/js/2.62edabed.chunk.js",
+    "static/js/2.62edabed.chunk.js.map": "/meetingscheduler/static/js/2.62edabed.chunk.js.map",
+    "index.html": "/meetingscheduler/index.html",
+    "precache-manifest.87490fcb6eb9af8de1105e4840b741f4.js": "/meetingscheduler/precache-manifest.87490fcb6eb9af8de1105e4840b741f4.js",
+    "service-worker.js": "/meetingscheduler/service-worker.js",
+    "static/css/2.1417c86a.chunk.css.map": "/meetingscheduler/static/css/2.1417c86a.chunk.css.map",
+    "static/css/main.a43e3b81.chunk.css.map": "/meetingscheduler/static/css/main.a43e3b81.chunk.css.map",
+    "static/js/2.62edabed.chunk.js.LICENSE.txt": "/meetingscheduler/static/js/2.62edabed.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/meetingscheduler/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dbb1d8b.js",
+    "static/css/2.1417c86a.chunk.css",
+    "static/js/2.62edabed.chunk.js",
+    "static/css/main.a43e3b81.chunk.css",
+    "static/js/main.9b6e989b.chunk.js"
+  ]
+}
