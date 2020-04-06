@@ -78,7 +78,7 @@ export default class Addmeeting extends React.Component {
         const { startDate, startTime, endTime } = this.state
         console.log(this.props.location.state)
         return (
-            <div className="container">
+            <div className="meetingcontainer">
                 <Form onSubmit={this.mySubmitHandler}>                    
                     <div className="meetingDate">
                         <DatePicker
