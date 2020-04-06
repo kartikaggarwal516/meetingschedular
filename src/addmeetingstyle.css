@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    width: 600px;
+    align-items: center;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 5px 4px 5px rgb(188, 197, 209);
+}
+
+Form{
+    display: flex;
+    flex-direction: column;
+}
+
+Form div{
+    margin: 10px 0;
+}
+
+.meetingTime{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.eTime{
+    margin-left: 50px;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+    
+}
