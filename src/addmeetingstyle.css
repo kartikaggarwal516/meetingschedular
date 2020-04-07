@@ -1,3 +1,8 @@
+.bodycontainer{
+    display: flex;
+    justify-content: center;
+}
+
 .meetingcontainer{
     display: flex;
     justify-content: center;
